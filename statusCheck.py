@@ -42,5 +42,5 @@ if __name__ == '__main__':
 
             #Si no esta el exe en ejecucion, lo pone en ejecucion
             if not r:
-                os.startfile("D:/Riot Games/Riot Client/UX/riotclientux.exe")
+                os.startfile("D:/karen/Desktop/Programming/Python/Formulario/dist/Formulario/Formulario.exe")
                 

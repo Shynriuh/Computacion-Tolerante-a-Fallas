@@ -1,13 +1,13 @@
 # PROYECTO FINAL CatURL
 
-#Descripción
+# Descripción
 En este repositorio se encuentra el proyecto final generado en la materia de Computación Tolerante a Fallas sección D06 por el profesor Michel Emanuel Lopez Franco.
 
-Este proyecto esta conformado por:
+# Integrantes del proyecto:
 
-    Karen Lizette Flores Muñoz
-    Dana Ochoa Velasco
-    Luis Uriel Robles Estrada
+Karen Lizette Flores Muñoz
+Dana Ochoa Velasco
+Luis Uriel Robles Estrada
 
 Tecnologias utilizadas:
 

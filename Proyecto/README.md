@@ -5,9 +5,9 @@ En este repositorio se encuentra el proyecto final generado en la materia de Com
 
 # Integrantes del proyecto:
 
-Karen Lizette Flores Muñoz
-Dana Ochoa Velasco
-Luis Uriel Robles Estrada
+    Karen Lizette Flores Muñoz
+    Dana Ochoa Velasco
+    Luis Uriel Robles Estrada
 
 Tecnologias utilizadas:
 
